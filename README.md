@@ -5,10 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
-- **I am a ***HUGE StarWars Fan***⚡🧙🏻‍♂️**
--  **I'm a hopeful web and app developer 👩🏻‍💻**
+- **I am a ***HUGE StarWars Fan***
+-  **I'm a hopeful fullstack dev👩🏻‍💻**
 -  **I am a true science lover 🔬**
--  **Finally, I'm a football-watching frenzy ⚽!**
+
 ### Here's my github README stats:
 
 ![AvidCoder101 GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SirCraft007&&show_icons=true&theme=dark) 
