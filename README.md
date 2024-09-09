@@ -2,7 +2,7 @@
 
 <img src="https://profile-counter.glitch.me/SirCraft007/count.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer;++;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE StarWars Fan***⚡🧙🏻‍♂️**
